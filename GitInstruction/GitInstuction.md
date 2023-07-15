@@ -39,7 +39,7 @@ git log
 git log --oneline
 ```
 ## 7. Switching between the commits
-After you obtained the commit hash of the disered commit by checking the logs, run the following command:
+After you obtained the commit hash of the desired commit by checking the logs, run the following command:
 ```
 git checkout <commit-hash>
 ```
