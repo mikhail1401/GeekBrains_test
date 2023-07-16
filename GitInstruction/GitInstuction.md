@@ -43,7 +43,7 @@ After you obtained the commit hash of the desired commit by checking the logs, r
 ```
 git checkout <commit-hash>
 ```
-In order to switch to the 'master' branch, run:
+In order to switch to the latest of your master branch, run:
 ```
 git checkout master
 ```
