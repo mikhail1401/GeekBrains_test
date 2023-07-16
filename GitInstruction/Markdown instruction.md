@@ -16,6 +16,9 @@ For example, _a text can be italicized and **be bold** at the same time_
 
 ## Working with images
 
+To add an image into a text, you can type the following:
+![Hi, this is Bulochka!](bulochka.jpg)
+
 ## Links
 
 ## Working with tables
