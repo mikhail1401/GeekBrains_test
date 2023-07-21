@@ -14,6 +14,17 @@ For example, _a text can be italicized and **be bold** at the same time_
 
 ## Lists
 
+To add unordered lists, you need to mark them with (*).
+For example, like this:
+* Element 1
+* Element 2
+* Element 3
+
+To add orderered list, you need to simly number the items.
+For example, like this:
+1. First item
+2. Second item
+
 ## Working with images
 
 To add an image into a text, you can type the following:
