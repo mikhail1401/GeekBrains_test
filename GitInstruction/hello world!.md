@@ -15,3 +15,4 @@ Hello world!
 
 Start learning version control.
 
+Bulochka is a great cat :)
