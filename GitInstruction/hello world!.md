@@ -16,3 +16,5 @@ Hello world!
 Start learning version control.
 
 Bulochka is a great cat :)
+
+I completely agree with that!
