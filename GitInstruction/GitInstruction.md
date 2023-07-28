@@ -81,3 +81,35 @@ If you want to delte the brange without merging changes from it, use this:
 ```
 git branch -D <branch_name>
 ```
+
+## 12. Connecting local repository to remote repository
+1) You need to create a local repostiry first.
+2) Then you need to create a remote repository.
+3) After that you need to "befriend your local and remote repositories, by tying this command:
+```
+git remote add origin <link>
+```
+4) Create the upstream branch on your remote repostiroy and push the changes from your local repositroy to that branch:
+```
+git push --set-upstream origin <branch name>
+git push -u -origin <branch name>
+```
+origin = <remote repository name>
+
+## 13. To fetch and merge changes from a remote repositrory into your local branch, use this command:
+```
+git pull origin <remote branch name>
+git pull
+```
+
+## 14. To see connected remote repositories:
+```
+git remote
+git remote -v
+```
+
+## 15. To create a copy of an existing remote repository on your local machine:
+```
+git clone <link>
+```
+
